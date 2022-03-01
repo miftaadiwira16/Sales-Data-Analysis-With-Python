@@ -1,0 +1,2 @@
+# Sales-Data-Analysis-With-Python
+This dataset contains a sales data with thousands of store purchases broken down by month, product type, cost, purchase address, etc.  In this contents, we want to know about:  What is the overall sales trend? Which are the Top 10 products by sales? Which are the Most Selling Products? Which is the most preferred Ship Mode? Which are the Most Profitable Category and Sub-Category?
